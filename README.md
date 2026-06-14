@@ -5,7 +5,14 @@ Currently pursuing B.E. in Artificial Intelligence & Machine Learning and workin
 
 Connect
 
-LinkedIn • Portfolio • Email
+Connect
+
+* 🌐 Portfolio: https://yaseenbagwan.vercel.app/
+* 💼 LinkedIn: https://www.linkedin.com/in/yaseen-bagwan-b5b93b350
+* 📧 Email: yaseenbagwan399@gmail.com
+* 🐙 GitHub: https://github.com/Mohammedyaseen7
+
+⸻
 
 ⸻
 
