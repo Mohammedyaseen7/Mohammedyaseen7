@@ -1,5 +1,4 @@
-Hi, I’m Mohammed Yaseen
-
+Hi, I’m  Yaseen Bagwan
 AI/ML Engineer, IEEE-published researcher, and builder of intelligent systems focused on Machine Learning, Generative AI, Computer Vision, and Autonomous Systems.
 
 Currently pursuing B.E. in Artificial Intelligence & Machine Learning and working on Cognitive AI, RAG Systems, and UAV Swarm Intelligence.
